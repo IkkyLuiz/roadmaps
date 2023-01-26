@@ -6,6 +6,20 @@ Você pode, ao responder as 16 perguntas presentes no quiz, entender qual é a c
 Porém, lembre-se que este roadmap não é uma resposta definitiva, você pode ver o seu resultado e se fazer sentido para você, será recomendada uma trilha para que você possa se tornar um desenvolvedor mais completo e desejado pelo mercado de trabalho.
 Caso você deseje conhecer as outras trilhas, fique a vontade, o objetivo é encontrar aquela que mais faz você se sentir motivado em aprender, se destacar e alavancar sua carreira de acordo com suas aptidões!
 
+## Carreiras Disponíveis no Roadmap
+- Front-End;
+- Back-End;
+- Data Analytics;
+- Cloud;
+- CRM;
+- Data Engineering;
+- Games.
+- Infra-devops-security;
+- Liderança-Soft-Skills;
+- Moblie;
+- QA;
+- Web3-IA.
+
 ## Canal do Youtube da DIO
   - [DIO](https://www.youtube.com/@diomakethechange)
   
