@@ -1,4 +1,4 @@
-#<h1 align="center"> Roadmaps [DIO](https://dio.me) </h1>
+# <h1 align="center"> Roadmaps [DIO](https://dio.me) </h1>
 ![bgdio](https://user-images.githubusercontent.com/81529238/214918874-84b005cc-2ee9-48dc-bb4c-b0aaf773a5d0.png)
 Repositório público com Roadmaps colaborativos baseados nos conteúdos educacionais da DIO.
 Com ele você pode descobrir qual carreira da área de tecnologia mais combina com você de acordo com suas respostas ao quiz.
