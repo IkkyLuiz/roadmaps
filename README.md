@@ -7,12 +7,12 @@ Porém, lembre-se que este roadmap não é uma resposta definitiva, você pode v
 Caso você deseje conhecer as outras trilhas, fique a vontade, o objetivo é encontrar aquela que mais faz você se sentir motivado em aprender, se destacar e alavancar sua carreira de acordo com suas aptidões!
 
 ## Carreiras Disponíveis no Roadmap
-- Front-End;
 - Back-End;
-- Data Analytics;
 - Cloud;
 - CRM;
+- Data Analytics;
 - Data Engineering;
+- Front-End;
 - Games.
 - Infra-devops-security;
 - Liderança-Soft-Skills;
